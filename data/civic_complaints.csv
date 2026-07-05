@@ -1,0 +1,126 @@
+complaint_id,ward,category,description,date,severity,status,response_time_hours
+C001,Ward 6,Waste,Overflowing garbage bin at the main intersection,2026-06-20,High,Open,48
+C002,Ward 6,Drainage,Blocked sewer line causing wastewater overflow onto the main road,2026-06-20,High,In Progress,36
+C003,Ward 8,Water,Contaminated drinking water with brown discoloration and odor,2026-06-20,High,Open,12
+C004,Ward 1,Waste,Missed garbage collection for the past three days on street 4,2026-06-21,Medium,Resolved,24
+C005,Ward 8,Waste,Illegal dumping of construction debris on the vacant plot,2026-06-21,High,Open,72
+C006,Ward 6,Water,Low water pressure in the municipal supply pipeline,2026-06-21,Medium,In Progress,18
+C007,Ward 3,Streetlights,Streetlight not functioning rendering the alley dark and unsafe,2026-06-21,Medium,Resolved,8
+C008,Ward 8,Drainage,Stormwater drain is clogged with dry leaves and plastic bags,2026-06-22,Medium,Open,30
+C009,Ward 2,Safety,Suspicious activities observed in the abandoned building,2026-06-22,High,Open,5
+C010,Ward 6,Waste,Public trash can is damaged and garbage is spilling onto sidewalk,2026-06-22,Low,Resolved,26
+C011,Ward 8,Drainage,Stagnant water in open drain causing mosquito breeding,2026-06-22,Medium,In Progress,40
+C012,Ward 5,Transport,Pothole-ridden road section causing severe traffic slowdowns,2026-06-22,High,In Progress,52
+C013,Ward 6,Water,Main water supply pipeline leakage wasting thousands of gallons,2026-06-23,High,Open,14
+C014,Ward 6,Drainage,Broken manhole cover on busy pavement major safety hazard,2026-06-23,High,Resolved,2
+C015,Ward 8,Waste,Hazardous waste dumped near the community park entrance,2026-06-23,High,Open,96
+C016,Ward 4,Healthcare,Long queues and wait times at primary healthcare center,2026-06-23,Medium,Open,12
+C017,Ward 8,Water,No water supply for the last 24 hours without prior notice,2026-06-23,High,In Progress,28
+C018,Ward 6,Streetlights,Flickering streetlight causing disturbance to nearby residents,2026-06-23,Low,Resolved,4
+C019,Ward 8,Safety,Lack of security patrols in the park during late evening hours,2026-06-24,Medium,Open,15
+C020,Ward 7,Transport,Bus stop shelter is damaged and lacks seating,2026-06-24,Low,Resolved,72
+C021,Ward 6,Waste,Stench from uncleared compost pit near residential area,2026-06-24,Medium,Open,33
+C022,Ward 6,Drainage,Sewage backup in the basement of residential apartment block,2026-06-24,High,In Progress,19
+C023,Ward 8,Drainage,Drainage pipeline leakage near the drinking water line,2026-06-24,High,Open,44
+C024,Ward 1,Water,Leaking water tanker valve at public distribution point,2026-06-24,Low,Resolved,6
+C025,Ward 8,Waste,Commercial waste disposed of in residential bins,2026-06-24,Medium,Open,20
+C026,Ward 3,Healthcare,Shortage of basic medicines at government pharmacy,2026-06-25,High,In Progress,48
+C027,Ward 6,Transport,Overcrowding in public buses during morning peak hours,2026-06-25,Medium,Open,8
+C028,Ward 8,Water,Public drinking water fountain is broken and continuously leaking,2026-06-25,Low,Resolved,3
+C029,Ward 2,Streetlights,Multiple consecutive streetlights are out on main avenue,2026-06-25,High,Open,60
+C030,Ward 6,Waste,Accumulated plastic waste blocking the pedestrian walkway,2026-06-25,Low,Resolved,12
+C031,Ward 8,Drainage,Open sewage channel running parallel to the school road,2026-06-25,High,In Progress,70
+C032,Ward 5,Safety,Broken boundary wall of the ladies hostel,2026-06-26,High,Open,4
+C033,Ward 6,Drainage,Culvert blocked with silt leading to minor flooding after rain,2026-06-26,Medium,Resolved,16
+C034,Ward 8,Waste,No waste collection bin available near the market area,2026-06-26,Medium,Open,36
+C035,Ward 4,Transport,Incorrect traffic light timing causing long delays at junction,2026-06-26,Medium,Resolved,5
+C036,Ward 8,Water,Erratic water supply timings causing inconvenience,2026-06-26,Medium,In Progress,22
+C037,Ward 6,Streetlights,Streetlight pole is bent and leaning dangerously,2026-06-26,High,Open,8
+C038,Ward 1,Safety,Encroachment of footpath by vendors forcing pedestrians on road,2026-06-27,Medium,Open,45
+C039,Ward 6,Waste,Littering around the ward office entrance,2026-06-27,Low,Resolved,2
+C040,Ward 8,Drainage,Foul smell from the local drainage system,2026-06-27,Medium,In Progress,50
+C041,Ward 3,Water,Rust particles detected in water from municipal tank,2026-06-27,High,Open,30
+C042,Ward 6,Healthcare,Inadequate sanitation and cleanliness in clinic waiting area,2026-06-27,Medium,Resolved,6
+C043,Ward 8,Transport,Lack of pedestrian crossing near primary school,2026-06-27,Medium,Open,110
+C044,Ward 6,Streetlights,Exposed wiring at the base of the streetlight pole,2026-06-28,High,Open,1
+C045,Ward 8,Waste,Dumped medical waste bags found in community garbage bin,2026-06-28,High,Open,24
+C046,Ward 2,Water,Air lock in the supply line causing noisy and sputtering taps,2026-06-28,Low,Resolved,9
+C047,Ward 6,Drainage,Rainwater accumulation due to poor road slope,2026-06-28,Medium,Resolved,24
+C048,Ward 8,Safety,Defective CCTV camera at ward main junction,2026-06-28,Medium,Open,120
+C049,Ward 5,Healthcare,Lack of female doctor during evening hours at health center,2026-06-28,Medium,In Progress,72
+C050,Ward 6,Transport,Unauthorized parking blocking the bus lane,2026-06-28,Low,Resolved,8
+C051,Ward 8,Water,Wastage of water due to overflow of public overhead tank,2026-06-29,Medium,Resolved,2
+C052,Ward 7,Streetlights,Daytime burning of streetlights due to faulty timer,2026-06-29,Low,Resolved,14
+C053,Ward 6,Waste,Restaurant discarding kitchen grease directly in public bins,2026-06-29,Medium,Open,38
+C054,Ward 8,Drainage,Sewer water backflow in the park toilets,2026-06-29,High,Open,27
+C055,Ward 4,Safety,Stray dog pack chasing two-wheelers and pedestrians,2026-06-29,Medium,In Progress,6
+C056,Ward 6,Water,Broken valve causing muddy water supply in Block A,2026-06-29,High,In Progress,11
+C057,Ward 8,Streetlights,Dim streetlights providing inadequate illumination on walkway,2026-06-29,Low,Open,85
+C058,Ward 1,Healthcare,Broken medical equipment in the diagnostic room,2026-06-30,Medium,Open,42
+C059,Ward 6,Drainage,Blocked stormwater inlet causing street flooding,2026-06-30,High,Open,4
+C060,Ward 8,Waste,Building renovators dumping drywall in public bins,2026-06-30,Medium,In Progress,18
+C061,Ward 6,Waste,Garbage overflow at the local vegetable market,2026-06-20,High,Open,54
+C062,Ward 8,Drainage,Main storm drain choked with plastic bottles,2026-06-20,High,Open,29
+C063,Ward 6,Water,Water pipeline burst at Sector 3 crossing,2026-06-20,High,Resolved,3
+C064,Ward 8,Water,No water supply in block C for 12 hours,2026-06-21,Medium,In Progress,15
+C065,Ward 6,Waste,Stale food dumped behind commercial complex,2026-06-21,Medium,Resolved,10
+C066,Ward 8,Drainage,Open gutter spilling sludge on footpath,2026-06-21,High,Open,48
+C067,Ward 6,Streetlights,Three streetlights not working near girls high school,2026-06-22,High,In Progress,32
+C068,Ward 8,Transport,Damaged road sign at intersection of Ring Road,2026-06-22,Low,Resolved,5
+C069,Ward 6,Safety,Illegal street racing late at night,2026-06-22,High,Open,8
+C070,Ward 8,Waste,Dead leaves piled up and set on fire in open area,2026-06-22,Low,Resolved,12
+C071,Ward 6,Drainage,Sewerage line blockage in lane 5,2026-06-23,High,In Progress,25
+C072,Ward 8,Water,Leakage in supply line near main water tank,2026-06-23,Medium,Open,31
+C073,Ward 6,Water,Salty water supplied to residents of Ward 6 block B,2026-06-23,Medium,Open,20
+C074,Ward 8,Waste,Electronic waste discarded in regular dustbin,2026-06-23,Medium,In Progress,42
+C075,Ward 6,Transport,Missing lane markings on newly paved main road,2026-06-24,Low,Resolved,24
+C076,Ward 8,Drainage,Wastewater accumulating in empty plot near apartments,2026-06-24,Medium,Open,60
+C077,Ward 6,Waste,Garbage truck dropping litter during transit,2026-06-24,Low,Resolved,4
+C078,Ward 8,Safety,Overgrown bushes blocking visibility at sharp turn,2026-06-24,Medium,Open,80
+C079,Ward 6,Drainage,Drain cover broken on Sector 4 road,2026-06-25,Medium,Resolved,8
+C080,Ward 8,Water,Water tank valve leaking continuously,2026-06-25,Low,In Progress,14
+C081,Ward 6,Streetlights,Streetlights covered by overgrown tree branches,2026-06-25,Low,Open,56
+C082,Ward 8,Waste,Industrial scrap dumped illegally at midnight,2026-06-25,High,Open,64
+C083,Ward 6,Water,Water pressure extremely low on first and second floors,2026-06-26,Medium,In Progress,36
+C084,Ward 8,Drainage,Wastewater backflowing into residential kitchen sinks,2026-06-26,High,Open,12
+C085,Ward 6,Healthcare,Stray dogs inside health center compound,2026-06-26,Medium,Resolved,12
+C086,Ward 8,Transport,Request for speed breaker near children park,2026-06-26,Low,Open,90
+C087,Ward 6,Safety,Lack of fire safety equipment in community hall,2026-06-27,High,Open,72
+C088,Ward 8,Waste,Debris from building demolition left on roadside,2026-06-27,Medium,Open,44
+C089,Ward 6,Drainage,Clogged underground sewer causing gurgling sounds,2026-06-27,Medium,Resolved,20
+C090,Ward 8,Water,Dirty water being supplied in municipal tap,2026-06-27,High,In Progress,8
+C091,Ward 6,Streetlights,Entire lane streetlights off near central library,2026-06-28,High,Open,24
+C092,Ward 8,Waste,Overflowing public bin at bus stop,2026-06-28,Medium,Resolved,16
+C093,Ward 6,Drainage,Drain blockage due to commercial plastic dumping,2026-06-28,High,In Progress,30
+C094,Ward 8,Water,Broken pipeline gushing water on main road,2026-06-28,High,Resolved,2
+C095,Ward 6,Safety,Inadequate lighting in the underpass making it unsafe,2026-06-29,High,Open,96
+C096,Ward 8,Waste,Illegal dump site forming near railway tracks,2026-06-29,High,Open,100
+C097,Ward 6,Drainage,Rainwater logged on street for past 2 days,2026-06-29,Medium,Open,48
+C098,Ward 8,Water,Water smells heavily of chlorine,2026-06-29,Medium,Resolved,6
+C099,Ward 6,Transport,Bus stop bench is missing,2026-06-30,Low,Resolved,48
+C100,Ward 8,Drainage,Sewage water entering cellar of commercial block,2026-06-30,High,Open,18
+C101,Ward 6,Waste,Garbage burning near residential building,2026-06-30,High,Open,6
+C102,Ward 8,Water,Public water standpost is broken,2026-06-30,Low,In Progress,22
+C103,Ward 2,Waste,Garbage pile in front of the elementary school,2026-06-20,High,In Progress,24
+C104,Ward 3,Drainage,Clogged rainwater drain at central chowk,2026-06-21,Medium,Open,40
+C105,Ward 4,Water,No water supply in Ward 4 sector 2,2026-06-22,High,Resolved,24
+C106,Ward 5,Waste,Debris blocking sidewalk for last one week,2026-06-23,Medium,Open,168
+C107,Ward 7,Drainage,Wastewater pooling in playground,2026-06-24,High,Open,50
+C108,Ward 1,Water,Pipeline leakage near house 24,2026-06-25,Low,Resolved,5
+C109,Ward 2,Drainage,Damaged drain cover at main junction,2026-06-26,Medium,Resolved,18
+C110,Ward 3,Water,Water supplied only for 10 minutes in morning,2026-06-27,Medium,Open,72
+C111,Ward 4,Waste,Stench from open compost pit,2026-06-28,Medium,Resolved,30
+C112,Ward 5,Drainage,Blocked sewer line in sector 5 residential lane,2026-06-29,High,In Progress,36
+C113,Ward 7,Water,Rusty water supplied from overhead reservoir,2026-06-30,High,Open,48
+C114,Ward 1,Waste,Dumping of plastic bottles behind community hall,2026-06-20,Low,Resolved,10
+C115,Ward 2,Drainage,Rainwater ponding due to blocked drain mouth,2026-06-21,Low,Resolved,12
+C116,Ward 3,Water,Water tank cleaning overdue by 6 months,2026-06-22,Medium,Open,120
+C117,Ward 4,Drainage,Silt accumulation in open storm drain,2026-06-23,Medium,In Progress,55
+C118,Ward 5,Water,Water supply delayed by 4 hours,2026-06-24,Low,Resolved,4
+C119,Ward 7,Waste,Commercial waste dumped near the children hospital,2026-06-25,High,Open,80
+C120,Ward 1,Drainage,Sewage leakage on back alley,2026-06-26,High,Open,90
+C121,Ward 2,Water,Municipal water valve damaged,2026-06-27,Medium,Resolved,6
+C122,Ward 3,Waste,Missed trash pickup on lane 2,2026-06-28,Low,Resolved,24
+C123,Ward 4,Drainage,Sewer gas smell coming from drainage vents,2026-06-29,Low,Open,42
+C124,Ward 5,Water,Pipeline valve failure causing no water supply,2026-06-30,High,Open,8
+C125,Ward 7,Waste,Construction sand piled on road blocking one lane,2026-06-30,Medium,Open,66
