@@ -151,8 +151,22 @@ def load_data_cached(use_bq, project, dataset, table, base_dir):
     if use_bq:
         try:
             from google.cloud import bigquery
-            # Create BigQuery client. Uses Application Default Credentials (ADC)
-            bq_client = bigquery.Client(project=project)
+            
+            # Check for service account credentials in Streamlit Secrets
+            credentials = None
+            try:
+                if "gcp_service_account" in st.secrets:
+                    from google.oauth2 import service_account
+                    sa_info = dict(st.secrets["gcp_service_account"])
+                    credentials = service_account.Credentials.from_service_account_info(sa_info)
+            except Exception:
+                pass
+            
+            # Create BigQuery client. Uses service account if available, otherwise ADC
+            if credentials:
+                bq_client = bigquery.Client(credentials=credentials, project=project)
+            else:
+                bq_client = bigquery.Client(project=project)
             
             # Build query targeting the BigQuery table
             query = f"SELECT * FROM `{project}.{dataset}.{table}`"
